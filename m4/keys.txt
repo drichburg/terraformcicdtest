@@ -1,0 +1,22 @@
+AccessorID:       b571bb32-b5bc-19ab-1f8a-35c257b2c407
+SecretID:         763355b5-b7db-e5dc-e9dc-af79294b409a
+Description:      Bootstrap Token (Global Management)
+Local:            false
+Create Time:      2021-04-22 18:28:18.011403 -0500 CDT
+Policies:
+   00000000-0000-0000-0000-000000000001 - global-management
+
+
+mary_token_accessor_id = "445625e6-fc14-d16f-3570-e3f10994968a"
+sally_token_accessor_id = "2cb3471a-a588-261d-3fc6-ea38c7aa94f2"
+
+
+JENKINS NETWORKING
+ 407f5444-acac-1939-b793-cc326f613de8
+ dillonrichburg@Dillons-MacBook-Pro applications % consul acl token create -policy-name=applications -description="Jenkins applications"
+AccessorID:       bde38d98-7c26-14f2-21d9-7df2fa80a354
+SecretID:         0efa15e8-1953-f6a8-0338-fec78b616055
+Description:      Jenkins applications
+
+jenkins password
+6154b962f5dc4ece9b630378cada06a1
